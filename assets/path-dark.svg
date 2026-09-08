@@ -1,23 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 148" width="1100" height="148" role="img" aria-labelledby="title">
-  <title id="title">Markets to automation to Robinhood Chain</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 148" width="1100" height="148" role="img">
+  <title>Polymarket to perps to Robinhood Chain</title>
   <rect width="1100" height="148" fill="#0b0b0a"/>
   <rect x="18" y="14" width="1064" height="120" fill="none" stroke="#d4af37" stroke-opacity="0.28" stroke-width="1"/>
-
-  <text x="48" y="42" fill="#6e685e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="2.8">WORKING LINE</text>
-
+  <text x="48" y="42" fill="#6e685e" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="2.8">WORKING LINE</text>
   <rect x="48" y="62" width="280" height="50" fill="none" stroke="#d4af37" stroke-opacity="0.45" stroke-width="1"/>
-  <text x="188" y="83" text-anchor="middle" fill="#d4af37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.8">01</text>
-  <text x="188" y="101" text-anchor="middle" fill="#f4efe4" font-family="Georgia, 'Times New Roman', Times, serif" font-size="16">Polymarket</text>
-
-  <text x="350" y="92" fill="#6e685e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">’</text>
-
+  <text x="188" y="83" text-anchor="middle" fill="#d4af37" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="1.8">01</text>
+  <text x="188" y="101" text-anchor="middle" fill="#f4efe4" font-family="Georgia, Times New Roman, serif" font-size="16">Polymarket</text>
+  <text x="350" y="92" fill="#6e685e" font-family="Consolas, Courier New, monospace" font-size="16">&gt;</text>
   <rect x="380" y="62" width="280" height="50" fill="none" stroke="#d4af37" stroke-opacity="0.45" stroke-width="1"/>
-  <text x="520" y="83" text-anchor="middle" fill="#d4af37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.8">02</text>
-  <text x="520" y="101" text-anchor="middle" fill="#f4efe4" font-family="Georgia, 'Times New Roman', Times, serif" font-size="16">Perps + automation</text>
-
-  <text x="682" y="92" fill="#6e685e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">’</text>
-
+  <text x="520" y="83" text-anchor="middle" fill="#d4af37" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="1.8">02</text>
+  <text x="520" y="101" text-anchor="middle" fill="#f4efe4" font-family="Georgia, Times New Roman, serif" font-size="16">Perps + automation</text>
+  <text x="682" y="92" fill="#6e685e" font-family="Consolas, Courier New, monospace" font-size="16">&gt;</text>
   <rect x="712" y="62" width="340" height="50" fill="none" stroke="#d4af37" stroke-width="1"/>
-  <text x="882" y="83" text-anchor="middle" fill="#d4af37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.8">03  NOW</text>
-  <text x="882" y="101" text-anchor="middle" fill="#f4efe4" font-family="Georgia, 'Times New Roman', Times, serif" font-size="16">Robinhood Chain</text>
+  <text x="882" y="83" text-anchor="middle" fill="#d4af37" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="1.8">03  NOW</text>
+  <text x="882" y="101" text-anchor="middle" fill="#f4efe4" font-family="Georgia, Times New Roman, serif" font-size="16">Robinhood Chain</text>
 </svg>

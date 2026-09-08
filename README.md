@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/masthead-dark.svg">
-    <img src="./assets/masthead-light.svg" alt="antsaslyku - software engineer, blockchain, web3, on-chain markets" width="100%">
-  </picture>
+  <img src="./assets/masthead-dark.png" alt="antsaslyku - software engineer, blockchain, web3, on-chain markets" width="100%">
 </p>
 
 Software engineer specialised in **blockchain**, **web3**, and the software that sits between a market and a fill. I would rather ship a system than click a screen.
@@ -12,10 +9,7 @@ The public proof is on [Polymarket](https://polymarket.com/@antsaslyku) &mdash; 
 **Building** Robinhood Chain market systems &ensp;&middot;&ensp; **Known for** Polymarket execution &ensp;&middot;&ensp; **Bias** automate the second time
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/path-dark.svg">
-    <img src="./assets/path-light.svg" alt="Working line: Polymarket to perps and automation to Robinhood Chain" width="100%">
-  </picture>
+  <img src="./assets/path-dark.png" alt="Working line: Polymarket to perps and automation to Robinhood Chain" width="100%">
 </p>
 
 ---
