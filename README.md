@@ -21,15 +21,17 @@
 
 ### About
 
-Software engineer specialised in **blockchain**, **web3**, and on-chain markets. I build the systems that sit between a signal and a fill &mdash; then I automate them so nobody has to click twice.
+Software engineer. Blockchain, web3, on-chain markets.
 
-- Public track record on **[Polymarket](https://polymarket.com/@antsaslyku)** &mdash; short-horizon crypto markets, perps-style exposure, execution loops
-- Now focused on **Robinhood Chain** (Arbitrum Orbit L2) &mdash; tokenized markets, contracts, indexers, trading rails
-- Bias: if a flow is done twice by hand, it becomes a machine
+I build trading systems, then automate them. If something needs a click, it is not done yet.
+
+- **[Polymarket](https://polymarket.com/@antsaslyku):** short-horizon crypto, perps-style exposure, execution loops
+- **Robinhood Chain** (Arbitrum Orbit L2): tokenized markets, contracts, indexers, trading rails
+- Do a flow twice by hand and it becomes a bot
 
 ### Currently
 
-Building first-wave infrastructure on **Robinhood Chain** &mdash; EVM-native, 24/7 markets, tokenized equities / RWAs. Same execution discipline that worked on Polymarket, ported to a new chain.
+On **Robinhood Chain**. EVM, 24/7 markets, tokenized equities and RWAs. Taking the Polymarket playbook and building it on this chain.
 
 ### What I build
 
