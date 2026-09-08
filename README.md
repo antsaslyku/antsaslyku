@@ -65,13 +65,6 @@ Building first-wave infrastructure on **Robinhood Chain** &mdash; EVM-native, 24
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antsaslyku&theme=tokyo-night&bg_color=0D1117&color=22D3EE&line=A78BFA&point=F8FAFC&area=true&hide_border=true" alt="Contribution graph" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antsaslyku/antsaslyku/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/antsaslyku/antsaslyku/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 ### Connect
 
 <div align="center">
