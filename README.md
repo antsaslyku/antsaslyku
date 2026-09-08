@@ -50,21 +50,6 @@ Building first-wave infrastructure on **Robinhood Chain** &mdash; EVM-native, 24
 
 `TypeScript` `Solidity` `Python` `Rust` `Foundry` `Hardhat` `viem` `ethers` `wagmi` `Node.js` `Docker` `Postgres` `Redis`
 
-### GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=antsaslyku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antsaslyku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=antsaslyku&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antsaslyku&theme=tokyo-night&bg_color=0D1117&color=22D3EE&line=A78BFA&point=F8FAFC&area=true&hide_border=true" alt="Contribution graph" />
-</div>
-
 ### Connect
 
 <div align="center">
