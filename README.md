@@ -20,6 +20,7 @@ Robinhood Chain is a permissionless Ethereum L2 (Arbitrum Orbit) built for token
 
 If a desk already works on Polymarket or perps, it should port. If it only works because someone is watching a UI, it is unfinished.
 
+
 ### practice
 
 | Surface | What I actually build |
